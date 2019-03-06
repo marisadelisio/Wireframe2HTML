@@ -1,0 +1,17 @@
+* {
+  border:1px solid black;
+}
+body {
+  /* font-size: 20px; */
+  font-size: 1.25em;
+}
+
+header {
+  font-size: 50px;
+}
+
+p {
+  padding:10px;
+  margin:10px;
+  color:red; 
+}
